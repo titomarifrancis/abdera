@@ -10,7 +10,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Abdera Health and Medical Services</title>
+	<title>LocalHealth Solutions</title>
 	<meta name="description" content="">
 	<link href='http://www.edgekit.com/favicon.ico' rel='icon' type='image/vnd.microsoft.icon'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
