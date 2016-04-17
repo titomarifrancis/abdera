@@ -1,0 +1,2 @@
+﻿<?php
+$myTimeZone="Asia/Manila";
